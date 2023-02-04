@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app>
+
+    <servlet>
+        <servlet-name>SalutationsServlet</servlet-name>
+        <servlet-class>Salutations</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>SalutationsServlet</servlet-name>
+        <url-pattern>/Salutations</url-pattern>
+    </servlet-mapping>
+
+</web-app>
