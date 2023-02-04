@@ -20,6 +20,7 @@ The web.xml file must include the servlet name (to map it to a url pattern) and 
 Each servlet class must extend HttpServlet.
 
 The classes needed are automatically installed with Tomcat Server. Adding servlet-api.jar to the classpath is essential to compile the .java file of this project and reproduce it.
+
 A screenshot of an example outcome of this project is provided.
 
 
